@@ -16,7 +16,7 @@ MacOS 13.0+ (Ventura).
 
 ## How does it works?
 
-- Upload your logs file to Mate 🧉. Psss: if you’re developing an iOS app, you can use [HKLogger](https://github.com/Houlak/logger-ios) in it, 
+- Upload your logs file to Mate 🧉. Psss: if you’re developing an iOS app, you can use [HKLogger](https://github.com/Houlak/hklogger) in it, 
 which is a library that creates and handle all the logging logic for you. Besides, it works perfectly with Mate!
 - Visualize your logs as you usually do in your IDE’s console but with all the extra power that Mate provides.
 - Continue with your debugging process. Every time that your log file is updated, Mate will render the new log entries automatically!
