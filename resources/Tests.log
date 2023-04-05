@@ -1,0 +1,38 @@
+2023-02-10T14:13:01 - [INFO] [ANALYTICS] [main] [TuPaseLogger.swift] [log(message:severity:)] [Line 50]: App started^^^
+2023-02-10T14:13:45 - [DEBUG] [NETWORKING] [<NSThread: 0x6000015d82c0>{number = 10, name = (null)}] [TuPaseLogger.swift] [log(message:severity:)] [Line 50]:
+{
+    "method": "GET", "path": "api/test-endpoint", "request": { 
+        "headers": {
+            "Authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlFrWTFPRVV5UlRZMVJqRXdPRE00T1VKR1JEZzBRVGMxTlRkRU5ETXdP",
+            "X-Client-Platform": "ios",
+            "Content-Type": "application/json",
+            "X-Client-Version": "v2.0.0b6" 
+        },
+        "body": { 
+            "bodyKey": "test"
+        }
+    },
+    "response": {
+        "statusCode": 404,"body": {"errorCode": "404","message": "Account not found id:638f71987c761508b2084d5c","showMessage": "Cuenta no encontrada"}
+    }
+}^^^
+2023-02-10T14:13:45 - [DEBUG] [NETWORKING] [<NSThread: 0x6000015d82c0>{number = 10, name = (null)}] [TuPaseLogger.swift] [log(message:severity:)] [Line 50]:
+{ "method": "GET", "path": "api/test-endpoint", "request": { "headers": { "Token": "qwerty123456" } }, "response": { "statusCode": 200, "body": { "name": "Pepito", "age": 30 } } }^^^
+2023-02-10T14:13:01 - [INFO] [DEFAULT] [main] [TuPaseLogger.swift] [log(message:severity:)] [Line 50]: App started^^^
+2023-02-10T14:13:01 - [WARNING] [TRACE] [main] [TuPaseLogger.swift] [log(message:severity:)] [Line 50]: Warning message!^^^
+2023-02-10T14:13:01 - [WARNING] [ANALYTICS] [main] [TuPaseLogger.swift] [log(message:severity:)] [Line 50]: Warning message!^^^
+2023-02-10T14:13:01 - [ERROR] [DEFAULT] [main] [TuPaseLogger.swift] [log(message:severity:)] [Line 50]: Test error^^^
+2023-02-10T14:13:01 - [ERROR] [DEFAULT] [main] [TuPaseLogger.swift] [log(message:severity:)] [Line 50]: Test error^^^
+2023-02-10T14:13:01 - [WARNING] [ANALYTICS] [main] [TuPaseLogger.swift] [log(message:severity:)] [Line 50]: Warning message!^^^
+2023-02-10T14:17:21 - [INFO] [DEFAULT] [main] [TuPaseLogger.swift] [log(message:severity:)] [Line 50]: App started^^^
+2023-02-10T14:18:05 - [DEBUG] [NETWORKING] [<NSThread: 0x6000001dbac0>{number = 13, name = (null)}] [TuPaseLogger.swift] [log(message:severity:)] [Line 50]:
+{ 
+    "method": "GET",
+    "path": "api/test-endpoint",
+    "request": { "headers": { "Token": "qwerty123456" } },
+    "response": { "statusCode": 200, "body": { "name": "John", "age": 30 } } 
+}^^^
+2023-02-10T14:18:05 - [DEBUG] [NETWORKING] [<NSThread: 0x6000001dbac0>{number = 13, name = (null)}] [TuPaseLogger.swift] [log(message:severity:)] [Line 50]:
+{ "method": "POST", "path": "api/test-another-endpoint", "request": { "body": { "name": "John Doe" } }, "response": { "statusCode": 200 } }^^^
+2023-02-11T21:00:00 - [INFO] [ANALYTICS]: Analytics log^^^
+2023-02-11T21:00:00 - [WARNING] [ANALYTICS]: Analytics log^^^
