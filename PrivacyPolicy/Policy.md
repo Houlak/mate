@@ -14,4 +14,4 @@ No Personally-Identifying Information is transmitted to external locations when 
 
 ### **QUESTIONS ABOUT DATA HANDLING**
 
-If you have a question about this privacy please feel free to email me at **alejandra.wetsch@gmail.com** with the subject line **“Blueterminal - Data handling”**.
+If you have a question about this privacy please feel free to shoot an email at **b.lorenzo@houlak.com**.
