@@ -1,5 +1,7 @@
 # Mate 🧉
 
+https://user-images.githubusercontent.com/26576696/232107069-8082d2b1-30a6-4f25-a5ff-2b5c992f6fb8.mov
+
 Mate is a macOS application designed to help developers view their logs in a more user-friendly and informative way.
 With Mate, you can easily and quickly navigate through your logs and find the information you need to troubleshoot issues and optimize your code.
 
