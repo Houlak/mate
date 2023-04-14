@@ -12,6 +12,8 @@ Mate helps you work smarter and faster. 😎
 
 You can download it for free in the Mac App Store.
 
+[![download_mac_app_store](https://user-images.githubusercontent.com/26576696/232110340-5265e947-8659-43be-9e12-a7161ff74be1.svg)](https://apps.apple.com/us/app/matecito/id1669779910)
+
 ## Requirements
 
 MacOS 13.0+ (Ventura).
@@ -67,7 +69,7 @@ You can download an example from `Resources/Tests.log`
 
 ## FAQ
 ### Can I use a custom syntax for the log file?
-Not yet, but stay tuned. We have planned to include this feature in the second version. 🤓
+Not yet, but stay tuned. We have planned to include this feature in the future. 🤓
 
 ### Did you found a bug or want to submit a new feature request?
 Please submit an issue and we'll take a look as soon as posible!
