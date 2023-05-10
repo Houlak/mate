@@ -2,11 +2,7 @@
 
 https://user-images.githubusercontent.com/26576696/232107069-8082d2b1-30a6-4f25-a5ff-2b5c992f6fb8.mov
 
-Mate is a macOS application designed to help developers view their logs in a more user-friendly and informative way.
-With Mate, you can easily and quickly navigate through your logs and find the information you need to troubleshoot issues and optimize your code.
-
-Upload your log file and that's it! You are ready to speed up your debugging process.
-Search for specific messages, filter your logs by many options, and even sort them!
+Mate is a macOS application designed to help developers view their logs in a more user-friendly and informative way. You can easily and quickly navigate through your logs and find the information you need to troubleshoot issues and optimize your code.
 
 Mate helps you work smarter and faster. 😎
 
@@ -68,8 +64,11 @@ Login button tapped^^^
 You can download an example from `Resources/Tests.log`
 
 ## FAQ
-### Can I use a custom syntax for the log file?
-Not yet, but stay tuned. We have planned to include this feature in the future. 🤓
+### Can I use Mate if I am not an iOS developer?
+Yes! If you follow the pre-defined format, you're good to go. No matter in wich language you use.
 
-### Did you found a bug or want to submit a new feature request?
-Please submit an issue and we'll take a look as soon as posible!
+### Can I use a custom syntax for the log file?
+Not yet. However, we know that this is a must-feature for non-iOS developers, so we're already working on having this feature as soon as possible 🤓
+
+### Did you find a bug or want to submit a new feature request?
+Please submit an issue, fill the required information, and we'll take a look as soon as posible!
