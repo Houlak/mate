@@ -97,7 +97,7 @@ You can download an example from `Resources/Tests.log`
 Yes! If you follow the pre-defined format, you're good to go. No matter the language you use.
 
 ### Can I use a custom syntax for the log file?
-Not yet. However, we know that this is a must-feature for non-iOS developers, so we're already working on having this as soon as possible 🤓
+Yes! You can define your own log format from version `1.1.0`
 
 ### Did you find a bug or want to submit a new feature request?
 Please submit an issue, fill the required information, and we'll take a look as soon as posible!
